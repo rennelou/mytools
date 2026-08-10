@@ -1,5 +1,3 @@
-# mytools
-
 # Configuração Acesso ao GitHub via HTTPS (PAT)
 
 Este guia ensina como configurar o acesso aos seus repositórios do GitHub utilizando um **Personal Access Token (PAT)**.
